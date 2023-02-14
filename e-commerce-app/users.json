@@ -1,0 +1,47 @@
+[
+  {
+    "email": "shivam@patel.com",
+    "password": "44cc4a45cf62de0878ee0edd225c8b8776696457c2e7b9f7e7e0800a65b988da22b0596f6737162999d2331c93f608aefc7bb1a868b95e25571479c58ff3898b..2e8fd62edd0b8356",
+    "id": "21cbdaa1"
+  },
+  {
+    "email": "pencil@pen.com",
+    "password": "4340c984d4fbea93a92b727ac0688842e336dd89597e22fc673641ac1112e01ad819dce681253600a6bf04d975d2982d5a3891d71329faaab879c424f162d42b.ae55ff0ae0d64558",
+    "id": "7f7547c4"
+  },
+  {
+    "email": "hello@hello.com",
+    "password": "34db90629a81808a666b2928e4c745c3ec3c0bc504ebf75128bb00cb74f3c54913247d78ec572dec80e71463b96d55cdf5c4227025c2284c7c8face0443c9dbd.006b5b45ab86624c",
+    "id": "4c619120"
+  },
+  {
+    "email": "@qwerty",
+    "password": "7aab75ade8239fca5bc8a4a3d1bade1a83267e86dc6b578b40f85dd2e83152b1d36435c66947734c7eb9381f5eeafc84f0780ed6be9a9a4041007c20bff76397.88b698096790ce4f",
+    "id": "8081727b"
+  },
+  {
+    "email": "test@test.com",
+    "password": "6d30b37f489c16754c808f6a498739334557b614e6f2eff46c0463e0624e5526b72aeda99c767f0282673a6a4879da7bcee18b65aabc7589f06ba0ab1eb15657.6b5f8f9a52959ff5",
+    "id": "0795b1a5"
+  },
+  {
+    "email": "mn@mn.com",
+    "password": "b31a851cc58fb03fba0a2decf82135667601379cb5f129d6e63d607528593445628c9d32ce04d277b36a964c8b748ab3ca7ef6409245ed010fb476f54014c07b.00918896c861395a",
+    "id": "722f7847"
+  },
+  {
+    "email": "ravi@r.com",
+    "password": "21ac12b87d4bd3d57c1a26dcd56439a09e32a383085fc9db32aa276508f37f2b5e3c5e30cb49d3e17e50af28d1e05b45fd070e128dac2c75c3036a42e93fd751.803e1226ea3cf64c",
+    "id": "57d89e71"
+  },
+  {
+    "email": "suraj@s.com",
+    "password": "5adaa63df2e0470cb7cccd5c43511a0c5727a9fd30e3c2e2ddcb9bd58096e186ebdc88c9fb08c45d2e9cb5fe941249db2cf847c3b071fb796060ae66f46100ea.f5c2af20649c3783",
+    "id": "327706b9"
+  },
+  {
+    "email": "mihir@m.com",
+    "password": "72dc1140f3df27dc90e1f771fd3b7dd9c17a1acbb2582974b488a77cbf46fe36e7e0f5c647a2e72774b4d3b3dbcdfb2369af93883b9ecbb629d86c7d02efa340.73f8d94806679ebf",
+    "id": "a2a9808d"
+  }
+]
